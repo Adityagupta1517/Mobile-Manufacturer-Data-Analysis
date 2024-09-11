@@ -1,4 +1,4 @@
-# Mobile-Manufacturer-Data-Analysis
+# Mobile-Manufacturer-Data-Analysis_sql
 
 Here's a summary of important insights from the SQL analysis of mobile manufacturer data:
 
